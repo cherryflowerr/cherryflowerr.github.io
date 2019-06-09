@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* 公共样式*/
+.di{display:inline;}
+h1 {color:red;height:200px;margin-left:50px;}
+/*  
+header的样式
+*/
+.header {height:100px;}
+.header h1{;font-size:50px;}
+.header img {position:relative;right:100px;top:10px;}
+.header img {position:absolute;left:1100px;top:3px;}
+.h-one {margin-left:100px;}
+
+
+/*教育背景*/
+.beij {height:100px;}
+.beij h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
+.beij table {font-size:17px;}
+
+
+
+/*职业技能*/
+.zy {height:350px;}
+.zy h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
+.zy table {font-size:17px;}
+.jin {margin-left:100px;}
+
+
+/*校园经历*/
+.jinl {height:230px}
+.jinl h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
+.jinl table {font-size:17px;}
+.jin {margin-left:100px;}
+
+/*实习实践*/
+.sx {height:200px}
+.sx h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
+.sx table {font-size:17px;}
+
+/*荣誉*/
+.ry {height:100px}
+.ry h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
+.ry div {margin-left:100px;}
+
