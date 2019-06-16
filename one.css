@@ -5,7 +5,7 @@ h1 {color:red;height:200px;margin-left:50px;}
 /*  
 header的样式
 */
-.header {height:100px;}
+.header {height:100px;background-color:#8F3EDA；}
 .header h1{;font-size:50px;}
 .header img {position:relative;right:100px;top:10px;}
 .header img {position:absolute;left:1100px;top:3px;}
@@ -38,7 +38,9 @@ header的样式
 .sx table {font-size:17px;}
 
 /*荣誉*/
-.ry {height:100px}
+.ry {height:200px}
 .ry h1{font-size:25px;height:30px;border-bottom:2px #000 solid;}
 .ry div {margin-left:100px;}
+
+
 
